@@ -29,6 +29,6 @@ Currently exploring **AI**, **music-driven design**, and **interactive web exper
 
 | | |
 |--|--|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tristesse02&show_icons=true&theme=tokyonight&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tristesse02&layout=compact&theme=tokyonight&hide_border=true) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tristesse02&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true) |
 
 ![Profile views](https://komarev.com/ghpvc/?username=Tristesse02&color=blueviolet)
