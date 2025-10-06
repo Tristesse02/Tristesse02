@@ -1,14 +1,14 @@
-# 👋 Hi, I’m Tristesse02
+# 👋 Hi, I’m Minh
 
-🎧 I'm a curious developer passionate about building creative, expressive, and functional apps.  
-Currently exploring **AI**, **music-driven design**, and **interactive web experiences**.
+I am a Fullstack Engineer Intern at Avocademy (YC W22)/Jack Applies. I graduated from University of Massachusetts Amherst in 2025 with a BSc. in Computer Science and Mathematics. I worked on Wearable Learning Cloud Platform at [Advanced Learning Technologies Lab](https://www.umass.edu/education/organizations/alt-lab) at UMass
 
 ---
 
 ### 🌐 Online
 - 💼 My work: [github.com/Tristesse02](https://github.com/Tristesse02)
-- 🌍 Portfolio: [tristesse02.dev](https://tristesse02.dev) *(if you have one)*
-- ✉️ Reach me at: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: [linkedin.com/in/tminhvu/](https://www.linkedin.com/in/tminhvu/)
+- 🌍 Portfolio: [tminhvu.xyz]([https://tristesse02.dev](https://www.tminhvu.xyz/))
+- ✉️ Reach me at: [minhfromwork@gmail.com](mailto:minhfromwork@gmail.com)
 
 ---
 
