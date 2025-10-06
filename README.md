@@ -41,6 +41,7 @@ I am a Fullstack Engineer Intern at Avocademy (YC W22)/Jack Applies. I graduated
 ### 📊 GitHub Stats
 
 | | |
+|--|--|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tristesse02&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tristesse02&layout=compact&theme=tokyonight&hide_border=true) |
 
 
