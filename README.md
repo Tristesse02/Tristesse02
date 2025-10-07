@@ -6,7 +6,7 @@ I am a Fullstack Engineer Intern at Avocademy (YC W22)/Jack Applies. I graduated
 
 ### 🌐 Online
 - 💼 My work: [github.com/Tristesse02](https://github.com/Tristesse02)
-- LinkedIn: [linkedin.com/in/tminhvu/](https://www.linkedin.com/in/tminhvu/)
+- 🔗 LinkedIn: [linkedin.com/in/tminhvu/](https://www.linkedin.com/in/tminhvu/)
 - 🌍 Portfolio: [tminhvu.xyz]([https://tristesse02.dev](https://www.tminhvu.xyz/))
 - ✉️ Reach me at: [minhfromwork@gmail.com](mailto:minhfromwork@gmail.com)
 
